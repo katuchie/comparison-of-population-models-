@@ -6,4 +6,4 @@
 2. **Модель Ферхюльста** (Verhulst) — логистический рост с насыщением
 3. **Модель Арнольда** (Arnold) — модифицированная логистическая модель
 
-   (figures/comp.png)
+plt.savefig('figures/comp.png', dpi=300, bbox_inches='tight')
